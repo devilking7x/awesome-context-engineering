@@ -159,6 +159,8 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 - **Context压缩**：[递归摘要](https://arxiv.org/pdf/2308.15022)、[Context修剪](https://arxiv.org/abs/2501.16214)、[TokenPilot](https://arxiv.org/abs/2606.17016)（[代码](https://github.com/zjunlp/LightRSI)）
 - **长Context局限**：[Lost in the Middle](https://arxiv.org/abs/2307.03172)
 
+- **Harness 适配**：[Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report](https://arxiv.org/abs/2608.15763) — 研究如何通过训练适应 Skills、工具 Schema、提示词和运行时 Hooks 的变化。
+
 ## 🛠️ 工具与项目
 
 ### 综合资源

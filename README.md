@@ -172,6 +172,8 @@ Why compacting an agent's context is lossy compression, not free summarization �
 - **Context Compression**: [Recursive Summarization](https://arxiv.org/pdf/2308.15022), [Context Pruning](https://arxiv.org/abs/2501.16214), [TokenPilot](https://arxiv.org/abs/2606.17016) ([code](https://github.com/zjunlp/LightRSI))
 - **Long-Context Limitations**: [Lost in the Middle](https://arxiv.org/abs/2307.03172)
 
+- **Harness Adaptation**: [Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report](https://arxiv.org/abs/2608.15763) — Studies training for changes in skills, tool schemas, prompts, and runtime hooks.
+
 ## 🛠️ Tools & Projects
 
 ### Comprehensive Resources
