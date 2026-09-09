@@ -241,6 +241,7 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 - **[Practical Guide to Context Engineering](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering)**：面向大模型应用的上下文工程实战指南（中文）
 - **[wiki](https://github.com/plasma-ai/wiki)**：面向智能体的索引式 Markdown 知识库，支持按需渐进检索项目上下文，并提供确定性索引、交叉链接、结构校验，以及并行编辑时的合并处理
 - **[Hexis](https://github.com/Bevel-Software/Hexis)**：面向 AI Agent 的 Git 驱动技能、工具与上下文平台，支持 Git 评审流程、基于角色的访问控制、加密密钥存储与远程 MCP 接入
+- **[ctx-optimize](https://github.com/muthuishere/ctx-optimize)**：面向编程智能体的确定性代码知识图谱——单个静态 Go 二进制将仓库（以及可选的数据库、对象存储、消息队列与 API）索引为本地图谱，智能体一次调用即可从图谱中回答「谁调用了它」「改动它会影响什么」，无需再做 grep 与逐文件阅读；内置面向 Claude Code 与 Codex 的 Agent Skill，且不依赖 LLM、嵌入、数据库或 MCP，也不留存任何凭据
 
 ### 开发框架
 
