@@ -266,6 +266,7 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 - **[skillreaper](https://github.com/thousandflowers/skillreaper)**：基于会话记录统计智能体加载的 context 中真正被调用的比例（技能、MCP 服务器、子智能体、hooks），并可逆地清理未使用的部分
 - **[LWC](https://github.com/JanYork/llm-wiki-cli)**：面向编码智能体的主动式、来源可追溯项目记忆，保存不可变原始资料、引用、来源链与原子变更集，提供 SQLite/FTS5 检索、可选文档图与代码图、生命周期 Hook，以及受限的单工具 MCP 接口
 - **[billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh)**：面向 DeepSeek Harness 的模型驱动上下文压缩（Active Context Pruning）——由模型决定何时压缩、压缩什么
+- **[langstate](https://github.com/hermes-labs-ai/langstate)**：将长对话压缩为可检视的 `[SCAFFOLD STATE]` 消息而非不透明摘要——保留系统消息与最近若干轮原文，`validate()` 会为指定事实返回确定性回执
 
 ### 生产工具
 
