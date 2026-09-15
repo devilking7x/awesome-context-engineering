@@ -256,6 +256,7 @@ Why compacting an agent's context is lossy compression, not free summarization â
 - **[wiki](https://github.com/plasma-ai/wiki)**: Indexed Markdown knowledge bases that let agents retrieve project context incrementally, with deterministic indexes, cross-links, linting, and merge handling for parallel edits
 - **[Hexis](https://github.com/Bevel-Software/Hexis)**: Git-backed platform for skills, tools, and context for AI agents, with Git review workflows, role-based access, encrypted secrets, and remote MCP access
 - **[PickySteve](https://github.com/KernelLord/pickysteve)**: A skill router and context picker for coding agents â€” hybrid BM25 + embedding retrieval (RRF-fused), cross-encoder rerank with a calibrated floor, and an LLM judge select the right skill, then assemble a minimal nonce-boundaried context bundle for the execution model; a fail-closed ONNX prompt-injection gate scans both the request and every retrieved doc. Local-first (runs offline on Ollama qwen3:8b or any OpenAI-compatible endpoint), with an MCP server and OpenAI-compatible proxy wired into 18 coding agents (Claude Code, Codex, Cursor, Windsurf, etc.)
+- **[CueParcel](https://github.com/kallist/CueParcel)**: Local-first browser extension for selecting sections of web pages, combining multiple sources, and packaging source-grounded context for AI agents, with structured TaskSpec output and GitHub Issue, GitHub Pull Request, and technical-documentation adapters
 
 ### Development Frameworks
 
