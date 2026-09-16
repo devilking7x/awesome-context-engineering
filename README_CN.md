@@ -266,6 +266,7 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 - **[skillreaper](https://github.com/thousandflowers/skillreaper)**：基于会话记录统计智能体加载的 context 中真正被调用的比例（技能、MCP 服务器、子智能体、hooks），并可逆地清理未使用的部分
 - **[LWC](https://github.com/JanYork/llm-wiki-cli)**：面向编码智能体的主动式、来源可追溯项目记忆，保存不可变原始资料、引用、来源链与原子变更集，提供 SQLite/FTS5 检索、可选文档图与代码图、生命周期 Hook，以及受限的单工具 MCP 接口
 - **[billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh)**：面向 DeepSeek Harness 的模型驱动上下文压缩（Active Context Pruning）——由模型决定何时压缩、压缩什么
+- **[Caura](https://github.com/caura-ai/caura)**：面向 AI 智能体集群的受治理共享记忆——跨智能体与租户的作用域化召回、信任分级、keystone 策略、审计日志与知识图谱，通过 MCP 暴露
 
 ### 生产工具
 
