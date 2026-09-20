@@ -284,7 +284,8 @@ Why compacting an agent's context is lossy compression, not free summarization �
 - **[LWC](https://github.com/JanYork/llm-wiki-cli)**: Proactive, source-grounded project memory for coding agents, preserving immutable sources, citations, provenance, and atomic changesets with SQLite/FTS5 retrieval, optional document/code graphs, lifecycle hooks, and a bounded one-tool MCP interface
 - **[billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh)**: Model-driven context compression (Active Context Pruning) for the DeepSeek Harness — the model decides when and what to compress
 
-### Production Tools
+- **[contextpress](https://github.com/Taha-azizi/contextpress)**: Deterministic context compression for LLM chat, RAG, and agent pipelines (`pip install contextpress`) — Tier-1 NLP stages, no API key; optional Tier-2 LLM backends
+- ### Production Tools
 
 - **Claude Code**: Auto-compact context management
 - **ChatGPT**: Long-term cross-session memory
