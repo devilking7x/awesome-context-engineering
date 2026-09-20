@@ -267,6 +267,7 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 - **[LWC](https://github.com/JanYork/llm-wiki-cli)**：面向编码智能体的主动式、来源可追溯项目记忆，保存不可变原始资料、引用、来源链与原子变更集，提供 SQLite/FTS5 检索、可选文档图与代码图、生命周期 Hook，以及受限的单工具 MCP 接口
 - **[billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh)**：面向 DeepSeek Harness 的模型驱动上下文压缩（Active Context Pruning）——由模型决定何时压缩、压缩什么
 - **[TekMyra](https://github.com/laconiq-ai/tekmyra)**: 面向 LLM 管道的受治理上下文压缩：输出前验证每个受保护片段恰好出现一次，无法验证即拒绝，拒绝也计入公开指标的分母
+- **[trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp)**：本地 MCP 服务器，以预先构建的跨语言代码图替代逐文件读取——框架感知的边会把 PHP 控制器连到它渲染的 Vue 页面、把依赖注入装饰器连到其 provider、把 ORM 调用连到定义该表的迁移文件（81 种语言、87 个框架集成），并提供与代码关联的跨会话决策记忆；在 6 个第三方仓库的 60 个已合并 PR 上，评审所需上下文从中位数 13,595 个输入 token 降到 1,326 个
 
 ### 生产工具
 

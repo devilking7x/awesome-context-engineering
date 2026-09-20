@@ -284,6 +284,7 @@ Why compacting an agent's context is lossy compression, not free summarization �
 - **[LWC](https://github.com/JanYork/llm-wiki-cli)**: Proactive, source-grounded project memory for coding agents, preserving immutable sources, citations, provenance, and atomic changesets with SQLite/FTS5 retrieval, optional document/code graphs, lifecycle hooks, and a bounded one-tool MCP interface
 - **[billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh)**: Model-driven context compression (Active Context Pruning) for the DeepSeek Harness — the model decides when and what to compress
 - **[TekMyra](https://github.com/laconiq-ai/tekmyra)**: Governed context compression for LLM pipelines that verifies protected spans are present exactly once before emitting and counts refusals against its published numbers
+- **[trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp)**: Local MCP server that serves a precomputed cross-language code graph instead of file reads — framework-aware edges link a PHP controller to the Vue page it renders, a DI decorator to its provider, an ORM call to the migration that defines the table (81 languages, 87 framework integrations), plus code-linked decision memory across sessions; on 60 merged PRs from six third-party repositories, review context drops from a median 13,595 to 1,326 input tokens
 
 ### Production Tools
 
