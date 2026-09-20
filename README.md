@@ -294,9 +294,9 @@ Why compacting an agent's context is lossy compression, not free summarization �
 - **[Caura](https://github.com/caura-ai/caura)**: Governed shared memory for AI agent fleets — scoped recall across agents and tenants, trust tiers, keystone policies, audit trails, and a knowledge graph, exposed over MCP
 - **[Ctxlens](https://github.com/AgentPostmortem/Ctxlens)**: Context-window profiler for AI agents: shows what is eating your tokens
 - **[tokencut](https://github.com/AgentPostmortem/tokencut)**: Measures and cuts the token cost of LLM and agent message payloads
-
 - **[contextpress](https://github.com/Taha-azizi/contextpress)**: Deterministic context compression for LLM chat, RAG, and agent pipelines (`pip install contextpress`) — Tier-1 NLP stages, no API key; optional Tier-2 LLM backends
-- ### Production Tools
+
+### Production Tools
 
 - **Claude Code**: Auto-compact context management
 - **ChatGPT**: Long-term cross-session memory

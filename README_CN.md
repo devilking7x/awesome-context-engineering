@@ -277,6 +277,7 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 - **[Caura](https://github.com/caura-ai/caura)**：面向 AI 智能体集群的受治理共享记忆——跨智能体与租户的作用域化召回、信任分级、keystone 策略、审计日志与知识图谱，通过 MCP 暴露
 - **[Ctxlens](https://github.com/AgentPostmortem/Ctxlens)**：面向 AI 智能体的上下文窗口分析器，展示 token 消耗的去向
 - **[tokencut](https://github.com/AgentPostmortem/tokencut)**：度量并削减 LLM 与智能体消息负载的 token 成本
+- **[contextpress](https://github.com/Taha-azizi/contextpress)**：面向 LLM 对话、RAG 与智能体流水线的确定性上下文压缩（`pip install contextpress`）——一级为纯 NLP 处理、无需 API Key，可选二级 LLM 后端
 
 ### 生产工具
 
@@ -285,6 +286,7 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 - **[Puppyone](https://github.com/puppyone-ai/puppyone)**：面向智能体的文件系统式context存储
 - **Cursor**：基于规则的context工程
 - **Windsurf**：高级代码context检索
+- **[OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)**：逐轮记录智能体实际发出的上下文，并可离线重放
 
 ## 💡 专家观点
 
