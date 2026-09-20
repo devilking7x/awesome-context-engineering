@@ -294,6 +294,7 @@ Why compacting an agent's context is lossy compression, not free summarization â
 - **[Puppyone](https://github.com/puppyone-ai/puppyone)**: File-system-based context storage for agents
 - **Cursor**: Rules-based context engineering
 - **Windsurf**: Advanced code context retrieval
+- **[OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)**: Records the context an agent actually sent, turn by turn, and replays it offline
 
 ## ðŸ’¡ Expert Insights
 
