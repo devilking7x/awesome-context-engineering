@@ -234,7 +234,7 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 - **[pro-workflow](https://github.com/rohitg00/pro-workflow)**：让 Claude Code 从纠错中学习的自我修正记忆系统，涵盖上下文工程、并行 worktree、agent 团队与 17 个 skills
 - **[kit](https://github.com/cased/kit)**：面向 AI 开发工具的上下文工程工具包，提供代码库映射、符号抽取与代码搜索
 - **[RepoPrompt CE](https://github.com/repoprompt/repoprompt-ce)**：RepoPrompt 社区版，面向 AI 编码 agent 的 macOS 原生上下文工程应用，附带 MCP CLI
-- **[DevProjex](https://github.com/Avazbek22/DevProjex)**：通过快速的 GUI 和 CLI，使用目录树、文件内容、Token 统计、Smart Ignore、预览和多格式导出，构建整洁且适用于 AI 的项目上下文。
+- **[DevProjex](https://github.com/Avazbek22/DevProjex)**：通过 GUI、TUI、CLI 和只读 MCP 服务，构建整洁且具备 token 感知的项目上下文，并提供实时预览、MCP 模式强制凭据脱敏、Git 范围和语法感知压缩。
 - **[context-engineering（outcomeops）](https://github.com/outcomeops/context-engineering)**：上下文工程的可运行参考实现，含语料、检索、注入、输出、强制执行五大组件，在 Amazon Bedrock 上端到端运行
 - **[Project Context Records (PCR)](https://github.com/hyf0/project-context-records)**：一套上下文工程方法论，在仓库内持久化、版本化地存档项目的「元上下文」（缘由、架构、维护者决策），让 AI 协作者继承项目判断力，而非反复重新推导
 - **[interview-prep-template](https://github.com/AbhiK189/interview-prep-template)**：三层上下文工程模板（不可变原始素材 → agent 维护的 wiki → 运行手册文件），由 agent 把原始素材合成为可复用的答案、框架与带评分的复盘，并随每次面试持续累积变强
