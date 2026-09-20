@@ -293,6 +293,7 @@ Why compacting an agent's context is lossy compression, not free summarization �
 - **[langstate](https://github.com/hermes-labs-ai/langstate)**: Compresses long LLM conversations into an inspectable `[SCAFFOLD STATE]` message instead of an opaque summary — keeps system messages and recent turns verbatim, and `validate()` returns a deterministic receipt for named facts
 - **[Caura](https://github.com/caura-ai/caura)**: Governed shared memory for AI agent fleets — scoped recall across agents and tenants, trust tiers, keystone policies, audit trails, and a knowledge graph, exposed over MCP
 - **[Ctxlens](https://github.com/AgentPostmortem/Ctxlens)**: Context-window profiler for AI agents: shows what is eating your tokens
+- **[tokencut](https://github.com/AgentPostmortem/tokencut)**: Measures and cuts the token cost of LLM and agent message payloads
 
 ### Production Tools
 
